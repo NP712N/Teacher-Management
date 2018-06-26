@@ -1,2 +1,2 @@
-# Teacher-Management
-Quản lí giảng viên
+# T_Manager
+Quản lý giảng viên huflit
